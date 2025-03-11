@@ -47,3 +47,22 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Quarto specific
+/_book/
+/_freeze/
+/.quarto/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Editor specific
+*.swp
+*.swo
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+~$*

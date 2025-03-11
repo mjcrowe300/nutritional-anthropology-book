@@ -1,0 +1,39 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "The Human Diet: A Nutritional Anthropology of Oral Health"
+  author: "Your Name"
+  date: "2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Foundations of Human Diet and Dentition"
+      chapters:
+        - evolution.qmd
+        - agriculture.qmd
+    - part: "Cultural Perspectives"
+      chapters:
+        - traditional.qmd
+        - sugar.qmd
+    - part: "Modern Transitions"
+      chapters: 
+        - processing.qmd
+        - global.qmd
+    - part: "Future Perspectives"
+      chapters:
+        - learning.qmd
+        - forward.qmd
+    - references.qmd
+
+bibliography: references.bib
+citation-location: margin
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: book
+    
+editor: visual

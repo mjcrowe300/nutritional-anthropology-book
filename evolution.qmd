@@ -1,0 +1,24 @@
+---
+title: "evolution"
+format: html
+editor: visual
+---
+
+# The Evolution of Human Eating
+
+## Early Hominid Dietary Patterns
+
+The teeth of our earliest ancestors tell a compelling story of dietary adaptation. Australopithecines, living 4-2 million years ago, possessed dentition markedly different from modern humans.
+
+### Dental Evidence Through Time
+
+Their molars were larger, with thicker enamel, adapted for processing tough, fibrous plant materials that required substantial grinding force.
+
+### Isotope Analysis and Dietary Composition
+
+Carbon isotope ratios (δ^13^C) from fossil remains provide direct evidence of dietary composition.
+
+## The Revolutionary Impact of Fire
+
+The controlled use of fire represents one of the most transformative innovations in human dietary evolution.
+---
