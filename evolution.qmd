@@ -36,7 +36,13 @@ theme_set(theme_minimal(base_size = 12) +
 
 # Early Hominid Dietary Patterns
 
+" QOUTE ASCENT OF MAN"---
+
 The story of human diet is etched into the very structure of our teeth and jaws. As we examine the fossil record, a remarkable narrative emerges—one that connects our biological adaptations to changing food resources over millions of years.
+
+There is a popular impression, often reflected by fad diets -paelo etc, that the our ancestors diet was "healthier" when coimpared to the modern industrial based foods consumed today. There are two major problems with this simplistic view. FIrstly, we do not have an accurate record of the precise foods, drinks, diet, etc -more food vessels than foods AND the idea of a hunter/gatherer as the main soruce of food is based on tenuous evidence. EPXAND
+
+(MOVE TO LATER) There are biases in our understadning of the food industry and intereationshuips are complex- logistics, production mass, agricult practices, food industry/advertising, safe practiuces, water, health, .....wealth...ethnic, cultural,
 
 ## Dental Evidence Through Time
 
@@ -217,10 +223,10 @@ This dramatic increase in energy availability, particularly from starchy foods, 
 
 The adoption of cooking correlates with significant changes in dental and jaw morphology in the *Homo* lineage. Compared to earlier hominids, later *Homo* species show:
 
-- Reduced molar size
-- Decreased mandibular robusticity
-- Less pronounced muscle attachment sites for chewing muscles
-- Overall facial shortening
+-   Reduced molar size
+-   Decreased mandibular robusticity
+-   Less pronounced muscle attachment sites for chewing muscles
+-   Overall facial shortening
 
 These changes reflect reduced mechanical demands for processing food, as cooking softens tough foods and neutralizes plant defense compounds [@zink2014impact].
 
@@ -263,9 +269,9 @@ The transition to cooked foods had complex effects on oral health. While softene
 
 Qesem Cave in Israel (400,000-200,000 years ago) provides compelling evidence for regular cooking practices by Middle Pleistocene hominins. Microscopic analysis of dental calculus from teeth found at the site revealed:
 
-- Starch granules with morphological changes consistent with cooking
-- Presence of cooked plant tissues
-- Evidence of controlled use of fire in a defined hearth area
+-   Starch granules with morphological changes consistent with cooking
+-   Presence of cooked plant tissues
+-   Evidence of controlled use of fire in a defined hearth area
 
 This site demonstrates that by this period, cooking had become a regular, established practice with direct impacts on dental health and diet [@hardy2016dental].
 
@@ -285,9 +291,6 @@ Beyond fire itself, archaeological evidence points to the development of special
 
 <!-- References will be automatically generated from your citations -->
 
-
-
-
 ## Early Hominid Dietary Patterns
 
 The teeth of our earliest ancestors tell a compelling story of dietary adaptation. Australopithecines, living 4-2 million years ago, possessed dentition markedly different from modern humans.
@@ -302,5 +305,4 @@ Carbon isotope ratios (δ^13^C) from fossil remains provide direct evidence of d
 
 ## The Revolutionary Impact of Fire
 
-The controlled use of fire represents one of the most transformative innovations in human dietary evolution.
----
+## The controlled use of fire represents one of the most transformative innovations in human dietary evolution.
