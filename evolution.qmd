@@ -38,6 +38,8 @@ theme_set(theme_minimal(base_size = 12) +
 
 " QOUTE ASCENT OF MAN"---
 
+See food history taste book -greek/roman, expan on food prefs, culture, morality/socrates/meat etc. ....
+
 The story of human diet is etched into the very structure of our teeth and jaws. As we examine the fossil record, a remarkable narrative emerges—one that connects our biological adaptations to changing food resources over millions of years.
 
 There is a popular impression, often reflected by fad diets -paelo etc, that the our ancestors diet was "healthier" when coimpared to the modern industrial based foods consumed today. There are two major problems with this simplistic view. FIrstly, we do not have an accurate record of the precise foods, drinks, diet, etc -more food vessels than foods AND the idea of a hunter/gatherer as the main soruce of food is based on tenuous evidence. EPXAND
