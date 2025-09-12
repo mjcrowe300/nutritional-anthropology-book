@@ -1,0 +1,220 @@
+---
+title: "ch06-global-transitions.qmd"
+format: html
+editor: visual
+---
+
+## 
+
+# Global Nutrition Transitions {#ch06}
+
+::: {.callout-note}
+
+## Chapter Theme
+
+How urbanization and globalization are rapidly transforming traditional diets worldwide—and what this means for global oral health patterns.
+:::
+
+## The Great Convergence
+
+*\[Opening: Three generations of one Chinese family - grandmother's rural diet vs. granddaughter's urban McDonald's meals and their dental health\]*
+
+## Section 1: The Nutrition Transition Model
+
+### Stages of Dietary Change
+
+-   
+
+-   Traditional patterns: local, seasonal, varied
+
+-   
+
+-   Early transition: urban migration, processed food access
+
+-   
+
+-   Late transition: Western diet adoption, chronic disease emergence
+
+-   
+
+-   Modern challenges: ultra-processed food dominance
+
+-   
+
+### Global Patterns
+
+-   
+
+-   Asia: rice-based traditional diets to Western patterns
+
+-   
+
+-   Latin America: indigenous foods to industrial diet
+
+-   
+
+-   Africa: traditional diversity to urban monotony
+
+-   
+
+-   Case studies from major cities worldwide
+
+-   
+
+## Section 2: Urbanization and Oral Health
+
+### City Life, Changed Diets
+
+-   
+
+-   Rural-to-urban migration impacts
+
+-   
+
+-   Food access and affordability in cities
+
+-   
+
+-   Traditional cooking knowledge loss
+
+-   
+
+-   Street food vs. home preparation
+
+-   
+
+### Social Determinants
+
+-   
+
+-   Income levels and food quality access
+
+-   
+
+-   Education and nutrition knowledge
+
+-   
+
+-   Cultural food preservation vs. assimilation
+
+-   
+
+-   Intergenerational dietary changes
+
+-   
+
+## Section 3: Globalization of Food Systems
+
+### The McDonaldization Effect
+
+-   
+
+-   Standardized food experiences globally
+
+-   
+
+-   Traditional cuisine displacement
+
+-   
+
+-   Youth dietary preferences and marketing
+
+-   
+
+-   Cultural food identity loss
+
+-   
+
+### Supply Chain Transformation
+
+-   
+
+-   Industrial agriculture expansion
+
+-   
+
+-   Processed food availability in remote areas
+
+-   
+
+-   Traditional food systems disruption
+
+-   
+
+-   Environmental and health costs
+
+-   
+
+## Section 4: Resistance and Revival
+
+### Food Sovereignty Movements
+
+-   
+
+-   Indigenous food system restoration
+
+-   
+
+-   Local food movement growth
+
+-   
+
+-   Traditional knowledge preservation
+
+-   
+
+-   Community-supported agriculture
+
+-   
+
+### Policy Interventions
+
+-   
+
+-   Sugar taxes and public health measures
+
+-   
+
+-   School meal program improvements
+
+-   
+
+-   Traditional food education programs
+
+-   
+
+-   Healthcare system dietary integration
+
+-   
+
+::: {.callout-tip}
+
+## Navigating Global Food Changes
+
+1.  
+
+2.  **Preserve cultural food knowledge**: Learn and practice traditional preparation methods
+
+3.  
+
+4.  **Support local food systems**: Choose locally grown, traditional varieties when possible
+
+5.  
+
+6.  **Resist convenience culture**: Maintain cooking skills and meal preparation habits
+
+7.  
+
+8.  **Educate children**: Pass on food knowledge to next generation
+
+9.  
+
+10. **Policy engagement**: Support public health policies that protect traditional food access
+
+11. 
+
+:::
+
+------------------------------------------------------------------------
+
+*\[Target length: 3,000 words\]*

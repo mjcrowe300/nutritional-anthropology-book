@@ -1,39 +1,69 @@
 project:
   type: book
   output-dir: _book
+  execute:
+    freeze: auto  # Cache computational results
 
 book:
   title: "The Human Diet: A Nutritional Anthropology of Oral Health"
-  author: "Your Name"
+  subtitle: "A Mouth's Journey Through Time"
+  author: "[Your Name]"
   date: "2025"
+  cover-image: images/cover.jpg
+  site-url: https://yourwebsite.com/human-diet-book/
+  repo-url: https://github.com/yourusername/human-diet-book/
+  
   chapters:
-    - index.qmd
-    - intro.qmd
-    - part: "Foundations of Human Diet and Dentition"
+    - index.qmd  # Preface: A Journey Through Time
+    
+    - part: "Part 1: Foundations of Human Diet and Dentition"
       chapters:
-        - evolution.qmd
-        - agriculture.qmd
-    - part: "Cultural Perspectives"
+        - evolution.qmd  # Chapter 1: The Tooth Tells the Tale (your existing file)
+        - ch02-agricultural-revolution.qmd  # Chapter 2: Agricultural Revolution and Oral Health
+    
+    - part: "Part 2: Cultural Perspectives"
       chapters:
-        - traditional.qmd
-        - sugar.qmd
-    - part: "Modern Transitions"
-      chapters: 
-        - processing.qmd
-        - global.qmd
-    - part: "Future Perspectives"
+        - ch03-traditional-diets.qmd  # Chapter 3: Traditional Diets and Dental Health
+        - ch04-sugar-story.qmd  # Chapter 4: The Sugar Story
+    
+    - part: "Part 3: Modern Transitions"
       chapters:
-        - learning.qmd
-        - forward.qmd
-    - references.qmd
+        - ch05-industrial-food.qmd  # Chapter 5: Industrial Revolution of Food
+        - ch06-global-transitions.qmd  # Chapter 6: Global Nutrition Transitions
+    
+    - part: "Part 4: Future Perspectives"
+      chapters:
+        - ch07-learning-history.qmd  # Chapter 7: Learning from History
+        - ch08-way-forward.qmd  # Chapter 8: The Way Forward
+    
+    - references.qmd  # Bibliography
+
+  appendices:
+    - appendix-methods.qmd  # Research methodology
+    - appendix-case-studies.qmd  # Extended case studies
+    - appendix-resources.qmd  # Additional resources
 
 bibliography: references.bib
+csl: chicago-author-date.csl
+reference-location: margin
 citation-location: margin
 
 format:
   html:
     theme: cosmo
+    code-fold: true
+    number-sections: true
+    toc: true
+    
   pdf:
     documentclass: book
+    classoption: [oneside]
+    number-sections: true
+    colorlinks: true
+    lot: true
+    lof: true
     
+  epub:
+    cover-image: images/cover.jpg
+
 editor: visual

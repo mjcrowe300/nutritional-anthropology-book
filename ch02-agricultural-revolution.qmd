@@ -1,0 +1,295 @@
+---
+title: "ch02-agricultural-revolution.qmd"
+format: html
+editor: visual
+---
+
+# The Agricultural Revolution and Oral Health {#ch02}
+
+::: {.callout-note}
+
+## Chapter Theme
+
+How the transition from hunting and gathering to farming fundamentally changed human teeth, jaws, and dietary health—setting up conflicts we still face today.
+:::
+
+## The Great Transition
+
+*\[Opening narrative: Archaeological evidence from Tell es-Sawwan, Iraq, 9000 years ago - first evidence of grain consumption and dental decay in the same population\]*
+
+### When Everything Changed
+
+-   
+
+-   Timeline: 12,000-8,000 years ago across different regions
+
+-   
+
+-   Multiple independent origins of agriculture
+
+-   
+
+-   Rapid spread once established
+
+-   
+
+-   Irreversible transformation of human society and health
+
+-   
+
+## Section 1: The Shrinking Jaw Mystery
+
+### Archaeological Evidence
+
+-   
+
+-   **Jaw size reduction**: 10-15% smaller jaws within 1000 years
+
+-   
+
+-   **Tooth crowding epidemic**: First evidence of malocclusion
+
+-   
+
+-   **Dental disease explosion**: Cavity rates jump from 1% to 10%+
+
+-   
+
+-   **Nutritional deficiencies**: Enamel defects, shorter stature
+
+-   
+
+### What the Skeletons Tell Us
+
+*\[Detailed comparison of hunter-gatherer vs. early farmer skeletal remains\]*
+
+-   
+
+-   **Case Study: Harappa Valley farmers** vs. earlier foragers
+
+-   
+
+-   **Evidence from Çatalhöyük**: Early farming community dental pathology
+
+-   
+
+-   **European Neolithic transition**: Before and after comparisons
+
+-   
+
+## Section 2: The Grain Revolution
+
+### New Foods, New Problems
+
+**Cereals and Carbohydrates:**
+
+-   
+
+-   High-starch foods and bacterial growth
+
+-   
+
+-   Sticky residues on teeth
+
+-   
+
+-   Fermentation and acid production
+
+-   
+
+-   First epidemic of dental caries
+
+-   
+
+**Food Processing Changes:**
+
+-   
+
+-   Grinding grain: softer textures, less jaw exercise
+
+-   
+
+-   Cooking methods: porridges and breads
+
+-   
+
+-   Storage: seasonal abundance and scarcity patterns
+
+-   
+
+-   New eating schedules: regular meals vs. continuous foraging
+
+-   
+
+### The Nutrient Trade-offs
+
+*\[Analysis of what was gained and lost nutritionally\]*
+
+-   
+
+-   **Gained**: Reliable calories, food security, population growth
+
+-   
+
+-   **Lost**: Dietary diversity, mineral density, vitamin variety
+
+-   
+
+-   **New deficiencies**: Iron, B-vitamins, protein quality
+
+-   
+
+## Section 3: Civilizational Consequences
+
+### Early Urban Centers
+
+**Mesopotamian Evidence:**
+
+-   
+
+-   Royal cemetery at Ur: elite vs. commoner dental health
+
+-   
+
+-   Dietary stratification by social class
+
+-   
+
+-   First evidence of "luxury" foods and their dental impact
+
+-   
+
+**Egyptian Dental Disasters:**
+
+-   
+
+-   Mummy dental pathology studies
+
+-   
+
+-   Sand in bread: extreme tooth wear
+
+-   
+
+-   Social class differences in oral health
+
+-   
+
+-   Early dental treatments and remedies
+
+-   
+
+### The Wealth-Health Paradox
+
+*\[How agricultural surplus created new forms of malnutrition\]*
+
+## Section 4: Lessons from the Agricultural Transition
+
+### What We Can Learn
+
+**Dietary Principles:**
+
+-   
+
+-   **Texture matters**: The importance of fibrous, challenging foods
+
+-   
+
+-   **Nutrient density**: Quality over quantity in food choices
+
+-   
+
+-   **Eating patterns**: Continuous vs. meal-based consumption
+
+-   
+
+-   **Food processing**: Benefits and risks of grain preparation
+
+-   
+
+### Modern Applications
+
+*\[Connecting ancient lessons to contemporary dietary advice\]*
+
+::: {.callout-tip}
+
+## Agricultural Revolution Lessons for Today
+
+1.  
+
+2.  **Don't abandon texture**: Include chewy, fibrous foods daily
+
+3.  
+
+4.  **Diversify beyond grains**: Grains can be part of a healthy diet but shouldn't dominate
+
+5.  
+
+6.  **Traditional processing wisdom**: Fermentation, soaking, sprouting improve grain nutrition
+
+7.  
+
+8.  **Seasonal eating patterns**: Avoid constant snacking, allow natural feast/famine cycles
+
+9.  
+
+10. **Social equity**: Food quality shouldn't be determined by economic status
+    :::
+
+11. 
+
+## Looking Forward
+
+The agricultural revolution solved the problem of food scarcity but created new challenges that we're still grappling with today. As we'll see in the next chapter, different cultures developed remarkably sophisticated strategies for maintaining oral and general health within agricultural systems—traditional wisdom that modern nutrition science is only beginning to understand.
+
+------------------------------------------------------------------------
+
+*\[Target length: 3,000 words\]*
+
+## Key Research Areas to Develop:
+
+-   
+
+-   Çatalhöyük dental studies
+
+-   
+
+-   Harappa Valley health transitions
+
+-   
+
+-   Egyptian mummy dental pathology
+
+-   
+
+-   Mesopotamian archaeological evidence
+
+-   
+
+-   European Neolithic health data
+
+-   
+
+-   Modern hunter-gatherer/farmer comparisons
+
+-   
+
+## References to Add:
+
+-   
+
+-   Larsen bioarchaeology studies
+
+-   
+
+-   Cohen & Armelagos "Paleopathology at the Origins of Agriculture"
+
+-   
+
+-   Mummery studies from Egypt
+
+-   
+
+-   Hillson dental archaeology work
+
+-   
