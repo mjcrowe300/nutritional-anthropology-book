@@ -1,18 +1,21 @@
----
-title: "Preface"
-format: html
-editor: visual
----
+# Introduction
 
-# Preface {.unnumbered}
+Welcome to a journey through 4 million years of human eating...
 
-This book examines the fascinating intersection of nutritional anthropology and oral health, exploring how our dietary past informs our present and future oral health challenges.
+## Why This Book Matters
 
-## About This Book
+\[Brief compelling case for why understanding our dietary past is crucial for modern health\]
 
-The Human Diet: A Nutritional Anthropology of Oral Health bridges multiple disciplines to provide a comprehensive view of how human dietary patterns have evolved and their impact on oral health.
+## Who This Book Is For
 
-## Acknowledgments {.unnumbered}
+-   Healthcare professionals interested in preventive approaches
+-   Students of anthropology, nutrition, or dental health
+-   General readers curious about human evolution and diet
 
-[Your acknowledgments will go here]
----
+## How to Read This Book
+
+\[Brief guide through the 4 parts and what each offers\]
+
+## About the Author
+
+\[Your background in nutrition, dental health, and why you're uniquely positioned to write this\]

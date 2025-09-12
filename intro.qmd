@@ -3,6 +3,7 @@ title: "Introduction"
 format: html
 editor: visual
 ---
+
 # Introduction
 
 The intimate connection between human diet and dentition extends deep into our evolutionary history. Our teeth tell the story of our species' dietary journey, and understanding this relationship provides valuable insights into modern oral health challenges.
@@ -13,5 +14,4 @@ Food and oral health are connected through complex biological mechanisms that ha
 
 ## Core Thesis
 
-This book argues that modern oral health challenges must be viewed through evolutionary and anthropological lenses. By understanding our dietary past, we can better inform our dietary future and address contemporary oral health issues.
----
+## This book argues that modern oral health challenges must be viewed through evolutionary and anthropological lenses. By understanding our dietary past, we can better inform our dietary future and address contemporary oral health issues.
