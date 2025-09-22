@@ -6,8 +6,7 @@ editor: visual
 
 # The Agricultural Revolution and Oral Health {#ch02}
 
-::: {.callout-note}
-
+::: callout-note
 ## Chapter Theme
 
 How the transition from hunting and gathering to farming fundamentally changed human teeth, jaws, and dietary health—setting up conflicts we still face today.
@@ -211,8 +210,7 @@ How the transition from hunting and gathering to farming fundamentally changed h
 
 *\[Connecting ancient lessons to contemporary dietary advice\]*
 
-::: {.callout-tip}
-
+::: callout-tip
 ## Agricultural Revolution Lessons for Today
 
 1.  
@@ -234,6 +232,7 @@ How the transition from hunting and gathering to farming fundamentally changed h
 9.  
 
 10. **Social equity**: Food quality shouldn't be determined by economic status
+
     :::
 
 11. 
@@ -293,3 +292,4 @@ The agricultural revolution solved the problem of food scarcity but created new 
 -   Hillson dental archaeology work
 
 -   
+:::
