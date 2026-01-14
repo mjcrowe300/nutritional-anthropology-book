@@ -8,13 +8,19 @@ What 4 million years of human teeth reveal about how we're supposed to eat
 
 ## Lucy's Discovery
 
-In November 30, 1974, Donald Johanson was surveying for fossils in the Hadar region of Ethiopia. After a hot morning's work, he and his postgraduate student, Tom Gray, decided to take a short-cut back to the Land Rover when he spotted a fragment of an elbow bone on the ground.
+In November 30, 1974, Donald Johanson was surveying for fossils in the Hadar region of Ethiopia. After a hot morning's work, he and his postgraduate student, Tom Gray, decided to take a short-cut back to their Land Rover when, glancing over his right shoulder, he spotted a small fragment of a fossilised elbow bone jutting out of the ground. This was the moment that led to a revolution in our understanding of human evolution. This was Lucy
 
-LAter jaw, eetc.
+LAter jaw, eetc. Kneeling in the Ethiopian dust, Johanson picked up a fragment of fossilized jaw and knew immediately he was holding something that would rewrite human evolution...**Write the Lucy scene** in Roberts' narrative style (500 words)
 
-nd picked up a small fragment of fossilised bone that would revolutionise our understanding of human evolution. The jawbone belonged to a 3.2-million-year-old hominid that would become known as Lucy—but it wasn't just her upright walking that made headlines. It was her teeth.
+-   **Add a Lieberman-style bridge**: "But what does a 3.2-million-year-old jaw tell us about what we should eat today?" (50 words)
+
+-   **Then proceed with your technical section** explaining how scientists read diet from teeth
+
+nd picked up a small fragment of fossilised bone that would revolutionise our . The jawbone belonged to a 3.2-million-year-old hominid that would become known as Lucy—but it wasn't just her upright walking that made headlines. It was her teeth.
 
 Lucy's dental arcade told a story that paleontologists had never heard before: a creature caught between two worlds, with the powerful molars of our ape ancestors but the dental proportions pointing toward our human future \[\@johanson1981\]. Her teeth were the first clue that our dietary evolution began long before we picked up our first stone tool.
+
+"While people used to think that there was a single line of human species, with one evolving after the other in an inevitable march towards modern humans, we now know this is not the case. Like most other mammals, we are part of a large and diverse family tree.  Fossil discoveries show that the human family tree has many more branches and deeper roots than we knew about even a couple of decades ago. In fact, the number of branches our evolutionary tree, and also the length of time, has nearly doubled since the famed ‘Lucy’ fossil skeleton was discovered in 1974!" website smithosonia
 
 NOTES\_
 
@@ -237,4 +243,4 @@ In our next chapter, we'll explore how the development of farming created the fi
 
 8.  Ensure smooth transitions between sections
 
-9.  
+9.  Ideas for later chapter- diet assessment software long way from early hominins! Evolutionary medicine concept

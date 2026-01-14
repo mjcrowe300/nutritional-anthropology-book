@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Complete Resource Guide for "The Human Diet: A Mouth's Journey Through Time"
 
 ## Core Foundation Texts (Essential for All Chapters)

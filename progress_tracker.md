@@ -7,7 +7,7 @@ output:
 
 ## Book Overview
 - **Total Target Length**: 25,000 words
-- **Timeline**: September 2024 - April 2026
+- **Timeline**: November 2024 - May 2026
 - **Schedule**: One day per week writing
 
 ## Chapter Status
@@ -27,7 +27,7 @@ output:
 
 ## Next Writing Sessions
 
-### Session 1 (Week 2, September)
+### Session 1 (Week 3, November)
 **Priority**: Complete Chapter 1 Lucy opening narrative (500 words)
 - [ ] Expand Lucy discovery story
 - [ ] Add specific fossil details
